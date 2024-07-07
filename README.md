@@ -1,1 +1,3 @@
 # proje_1
+Bu proje içerisinde bir yazılım festivali organizasyonu için ziyaretçi yönetim sistemi geliştirilmiştir.Bu sistem,
+katılımcıların bilgilerini saklayacak ve her biri için benzersiz bir güvenlik şifresi oluşturacak bir Python programından oluşmaktadır. Program, kullanıcıya seçenekler sunan bir menü içermektedir: yeni katılımcı kaydı, kayıtlı katılımcı bilgilerinin görüntülenmesi (ID ile sorgulama), katılımcılar için otomatik giriş kodu ve güvenlik şifresi oluşturma, ve kullanıcı girişi ile anlık giriş kodu ve güvenlik şifresi oluşturma. Katılımcı bilgileri "MuhendisFest2024-Katılımcılar.txt" dosyasında tutulacaktır.
