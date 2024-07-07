@@ -1,0 +1,17 @@
+eda,karakoç,10722879846,7
+ece,karakoç,0123456789,10
+Elif,Yılmaz,123456,2
+Mehmet,Kaya,789012,11
+Ayşe,Çelik,345678,4
+Ahmet,yıldız,901234,10
+fatma,Demir,567890,8
+Ali,Şahin,234567,3
+Zeynep,KOÇ,890123,6
+Mustafa,Arslan,456789,12
+esra,YILMAZ,012345,1
+Emre,Yılmaz,678901,7
+eda,karakoç,1234567,3
+elif,sal,1234,3
+Eda,Karakoç,01234,7
+anıl,güven,3456,4
+aslı,demir,337880279,5
